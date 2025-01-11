@@ -125,5 +125,5 @@ A precompiled executable for Windows is available in the Releases section of thi
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
