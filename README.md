@@ -73,7 +73,7 @@
 >If you have a compiled version of the program and want it to load the images automatically at startup, create a folder named `PUT YOUR IMAGES HERE` in the same directory as the program.
 2. **Launch the GUI:**
    ```bash
-   python kindle_converter_gui.py
+   python kindle-screensaver-converter-gui.py
    ```
 3. **Select Input Folder:** Click the `Select Input Folder` button and choose the folder containing your images.
 4. **Set Conversion Parameters:** Use the provided fields to define:
