@@ -179,6 +179,11 @@ class KindleConverterGUI(QMainWindow):
         button_layout.addWidget(self.convert_btn)
         layout.addLayout(button_layout)
 
+        # Credits button
+        self.made_by_neura_btn = QPushButton('Made by neura')
+        self.made_by_neura_btn.clicked.connect(lambda: os.system('start https://github.com/neura-neura/kindle-screensaver-converter-gui'))
+        layout.addWidget(self.made_by_neura_btn)
+
         # Load initial images
         self.load_image_previews()
 
