@@ -1,0 +1,6 @@
+venv/
+converted_screensavers/
+PUT YOUR IMAGES HERE/*
+!PUT YOUR IMAGES HERE/.gitkeep
+dist/
+build/

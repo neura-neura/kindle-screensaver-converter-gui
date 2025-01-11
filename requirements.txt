@@ -1,0 +1,4 @@
+Pillow
+PyQt6
+pyqtdarktheme
+numpy
