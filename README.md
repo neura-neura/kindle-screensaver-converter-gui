@@ -5,7 +5,7 @@
 <h1 align="center">Kindle Screensaver Converter GUI</h1>
 
 <div align="center">
-  This project provides a graphical user interface (GUI) for converting images into Kindle-compatible screensavers, simplifying the process by leveraging the core functionality of the [original Kindle Screensaver Converter script](https://github.com/neura-neura/kindle-screensaver-converter). The GUI allows users to define target dimensions, resolution, and bit depth while visually interacting with their image collection. A compiled version for Windows is included in the Releases section.
+  This project provides a graphical user interface (GUI) for converting images into Kindle-compatible screensavers, simplifying the process by leveraging the core functionality of the <a href=https://github.com/neura-neura/kindle-screensaver-converter>original Kindle Screensaver Converter script</a>. The GUI allows users to define target dimensions, resolution, and bit depth while visually interacting with their image collection. A compiled version for Windows is included in the Releases section.
 </div>
 
 ## Features
